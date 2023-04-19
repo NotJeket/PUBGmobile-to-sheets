@@ -1,6 +1,6 @@
 ﻿**PUBG Match Stats to Google Sheets**
 
-This script collects match stats data from a specified API endpoint for a PlayerUnknown's Battlegrounds (PUBG) match, and writes the data to a Google Sheets document using the Google Sheets API.
+This script collects match stats data from a specified API endpoint for a PlayerUnknown's Battlegrounds (PUBGmobile) match, and writes the data to a Google Sheets document using the Google Sheets API.
 
 **Diagram**
 
