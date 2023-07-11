@@ -2,9 +2,9 @@
 
 This script collects match stats data from a specified API endpoint for a PlayerUnknown's Battlegrounds (PUBGmobile) match, and writes the data to a Google Sheets document using the Google Sheets API.
 
-**Diagram**
+**Flowchart**
 
-![Aspose Words f6f0bb7b-76ee-42dc-ab2d-805f02054eea 001](https://user-images.githubusercontent.com/37781149/233157425-0d0222e2-6ce4-4e40-98d5-1f498fbeb9f7.png)
+![code2flow_RL4QCH](https://github.com/NotJeket/PUBGmobile-to-sheets/assets/37781149/2c5e9c50-a62c-4b3a-a92d-a77db6f86174)
 
 **Requirements**
 
