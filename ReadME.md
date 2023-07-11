@@ -5,7 +5,6 @@ This script collects match stats data from a specified API endpoint for a Player
 **Flowchart**
 
 ![code2flow_RL4QCH](https://github.com/NotJeket/PUBGmobile-to-sheets/assets/37781149/2c5e9c50-a62c-4b3a-a92d-a77db6f86174)
-![](https://app.code2flow.com/oD9jsz.png)
 
 **Requirements**
 
